@@ -1,6 +1,6 @@
 import os
-from data import generate_sample_seismic_data
-from train import main as train_main
+from environment.data import generate_sample_seismic_data
+from environment.train import main as train_main
 
 def setup_project():
     print("Setting up Earthquake Prediction Project...")
