@@ -339,6 +339,9 @@ plt.show()
    - Tsunami risk assessment
    - Ground motion estimation
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Submission Information
 - **Author**: abhinavuser
 - **Submission Date**: 2025-05-09 15:30:59 UTC
